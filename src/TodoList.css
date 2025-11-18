@@ -1,0 +1,101 @@
+/* Main Container */
+div {
+    max-width: 420px;
+    margin: 40px auto;
+    padding: 25px;
+    background: #fff7ff; /* soft pink tint */
+    border-radius: 20px;
+    box-shadow: 0 6px 14px rgba(255, 182, 193, 0.3);
+    font-family: "Poppins", sans-serif;
+}
+
+/* Input */
+input {
+    width: 68%;
+    padding: 12px;
+    border: 2px solid #f8c8dc; /* pastel pink border */
+    border-radius: 12px;
+    background: #fff;
+    outline: none;
+    font-size: 15px;
+    transition: 0.3s;
+}
+
+input:focus {
+    border-color: #f497c0; /* darker cute pink */
+    background: #fff0f8;
+}
+
+/* Buttons */
+button {
+    padding: 9px 15px;
+    margin-left: 8px;
+    border: none;
+    border-radius: 12px;
+    background: #bde0fe; /* pastel baby blue */
+    color: #4b4b4b;
+    cursor: pointer;
+    transition: 0.25s ease-in-out;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+button:hover {
+    background: #a2d2ff; /* slightly darker blue */
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+/* Task List */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 12px 0;
+    padding: 12px 14px;
+    background: #fde2e4; /* pastel peachy pink */
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 6px rgba(255, 182, 193, 0.2);
+}
+
+li span {
+    font-size: 16px;
+    font-weight: 500;
+    color: #444;
+}
+
+/* Delete button pastel red */
+li button:first-of-type {
+    background: #ffb3c6; 
+    color: white;
+}
+
+li button:first-of-type:hover {
+    background: #ff8fab;
+}
+
+/* Uppercase button pastel lavender */
+li button:last-of-type {
+    background: #e7c6ff;
+}
+
+li button:last-of-type:hover {
+    background: #d4aaff;
+}
+
+/* Uppercase All button */
+button:last-child {
+    background: #caffbf;
+    color: #4b4b4b;
+}
+
+button:last-child:hover {
+    background: #b2f7a8;
+}
