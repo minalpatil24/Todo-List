@@ -1,16 +1,83 @@
-# React + Vite
+# React + Vite + Material-UI Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **personal project**: a modern **Todo List application** built using **React**, **Vite**, and **Material-UI (MUI)**. This app lets users **add, edit, delete, and complete tasks** with a clean, responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+[Check out the live app](https://minalpatiltodo.netlify.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💡 Project Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is designed to showcase:
+
+* **React skills** with functional components and hooks
+* **Material-UI** for modern, responsive UI design
+* **Vite** for fast development and build
+* Building a complete small app as a personal project
+
+---
+
+## ✨ Features
+
+* Add, edit, and delete todos
+* Mark tasks as completed
+* Clear all completed tasks
+* Responsive layout for desktop and mobile
+* Clean and modern UI with Material-UI components
+
+---
+
+## 🛠 Technologies Used
+
+* **React** – Frontend library for building UI
+* **Vite** – Fast build and development tool
+* **Material-UI (MUI)** – UI components and design
+* **ESLint** – Code linting and quality
+
+---
+
+## 📂 Installation
+
+1. **Clone the repository**
+
+```bash
+git clone <your-repo-url>
+cd <your-repo-folder>
+```
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the app locally**
+
+```bash
+npm run dev
+```
+
+Open your browser at `http://localhost:5173`
+
+---
+
+## 🚀 Deployment
+
+The project is already deployed on **Netlify**. You can view it [here](https://minalpatiltodo.netlify.app/).
+
+---
+
+## 📝 License
+
+This is a personal project and open for viewing on GitHub.
+
+---
+
+This version is **clean, portfolio-ready, and highlights your skills**.
+
+If you want, I can also **add a polished “Project Summary” paragraph** at the top, like a mini portfolio description, so it looks professional for recruiters. Do you want me to do that?
+
