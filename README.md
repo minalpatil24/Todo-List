@@ -77,7 +77,3 @@ This is a personal project and open for viewing on GitHub.
 
 ---
 
-This version is **clean, portfolio-ready, and highlights your skills**.
-
-If you want, I can also **add a polished “Project Summary” paragraph** at the top, like a mini portfolio description, so it looks professional for recruiters. Do you want me to do that?
-
