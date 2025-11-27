@@ -6,7 +6,7 @@ A **personal project**: a modern **Todo List application** built using **React**
 
 ## 🔗 Live Demo
 
-[Check out the live app](https://minalpatiltodo.netlify.app/)
+[Check out the live app](https://minalpatil24.github.io/Todo-List/)
 
 ---
 
